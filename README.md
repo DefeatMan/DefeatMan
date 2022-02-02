@@ -1,8 +1,5 @@
-**个人简介**
-* 姓名：kxy
-* 班级：19网工3
-* 兴趣爱好：打球、游戏、vs
-
-**经历**
-
-懂一点c/c++。java、python仅了解但很少实际操作。
+retired acmer
+more C/C++
+little C# & java & python
+Mail:
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
