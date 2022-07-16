@@ -2,6 +2,8 @@ retired acmer
 
 more C/C++
 
+Golang
+
 little C# & java & python
 
 Name: kxy / kekxy
